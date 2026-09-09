@@ -77,7 +77,7 @@ Key technical capabilities tracked in this ecosystem include:
 
 ## 🔓 Open-Source GitHub Projects
 
-> ⭐️ **Sorted by GitHub Stars (Descending)**
+> ⭐️ **Sorted by GitHub_Stars (Descending)**
 
 * **[n8n](https://github.com/n8n-io/n8n)** [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social)](https://github.com/n8n-io/n8n/stargazers)
 
