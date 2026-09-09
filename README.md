@@ -100,149 +100,32 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-* **[ComplyAdvantage](https://complyadvantage.com/)**
-
-  Global AML and financial-crime platform covering sanctions screening, PEPs, adverse media, transaction monitoring, customer risk and continuous monitoring.
-
-
-
-* **[LexisNexis Risk Solutions](https://risk.lexisnexis.com/)**
-
-  Enterprise risk-information ecosystem covering sanctions, PEPs, identity, fraud, KYC and financial-crime risk.
-
-
-
-* **[LexisNexis Bridger Insight XG](https://risk.lexisnexis.com/products/bridger-insight-xg)**
-
-  Sanctions, watchlist and risk-screening solution supporting customer and counterparty screening.
-
-
-
-* **[Dow Jones Risk & Compliance](https://www.dowjones.com/professional/risk/)**
-
-  Enterprise risk and compliance data covering sanctions, PEPs, adverse media, enforcement and ownership information.
-
-
-
-* **[Dow Jones RiskCenter](https://www.dowjones.com/professional/risk/)**
-
-  Dow Jones compliance/risk ecosystem for screening, monitoring and investigative workflows.
-
-
-
-* **[LSEG World-Check](https://www.lseg.com/en/data-analytics/financial-data/risk-intelligence/world-check)**
-
-  Major global screening database covering sanctions, PEPs, adverse media and other risk intelligence.
-
-
-
-* **[AMLBot](https://amlbot.com/)**
-
-  AML/KYT screening platform focused particularly on crypto and blockchain addresses, transaction risk and sanctions-related compliance.
-
-
-
-* **[Sanction Scanner](https://www.sanctionscanner.com/)**
-
-  AML/KYC platform providing sanctions, PEP and adverse-media screening, transaction monitoring and risk management.
-
-
-
-* **[Unit21](https://www.unit21.ai/)**
-
-  AML, fraud and risk platform providing transaction monitoring, sanctions screening, case management and configurable financial-crime workflows.
-
-
-
-* **[Flagright](https://www.flagright.com/)**
-
-  Real-time AML compliance platform covering transaction monitoring, sanctions screening, case management and risk controls.
-
-
-
-* **[Napier AI](https://www.napier.ai/)**
-
-  AI-driven compliance platform covering transaction monitoring, sanctions screening, customer risk and financial-crime investigation.
-
-
-
-* **[ThetaRay](https://thetaray.com/)**
-
-  AI-based transaction-monitoring and financial-crime detection platform used for AML, sanctions and payment-risk scenarios.
-
-
-
-* **[Oracle Watchlist Screening](https://www.oracle.com/financial-services/aml/)**
-
-  Oracle Financial Services compliance technology supporting watchlist and sanctions screening.
-
-
-
-* **[Oracle FCCM](https://www.oracle.com/financial-services/financial-crime-compliance-management/)**
-
-  Financial Crime and Compliance Management suite covering sanctions screening, transaction monitoring, KYC, investigations and regulatory workflows.
-
-
-
-* **[Fenergo](https://www.fenergo.com/)**
-
-  Client lifecycle management and financial-crime compliance platform covering KYC, AML, screening, onboarding and ongoing monitoring.
-
-
-
-* **[Moody's Grid](https://www.moodys.com/)**
-
-  Enterprise risk and compliance data platform supporting sanctions, PEP, ownership, entity and counterparty intelligence.
-
-
-
-* **[AML Partners](https://amlpartners.com/)**
-
-  AML compliance technology covering screening, transaction monitoring, case management and financial-crime workflows.
-
-
-
-* **[Silent Eight](https://www.silenteight.com/)**
-
-  AI-powered sanctions and financial-crime alert-resolution platform focused on reducing false positives and automating screening investigations.
-
-
-
-* **[AMLYZE](https://www.amlyze.com/)**
-
-  AML compliance platform covering transaction monitoring, sanctions screening, case management, risk scoring and configurable financial-crime workflows.
-
-
-
-* **[NICE Actimize](https://www.niceactimize.com/)**
-
-  Enterprise financial-crime platform covering AML, sanctions, fraud, transaction monitoring, investigations and compliance operations.
-
-
-
-* **[NameScan](https://namescan.io/)**
-
-  Online AML screening service focused on sanctions, PEP and watchlist screening.
-
-
-
-* **[FIS AML Compliance Hub](https://www.fisglobal.com/)**
-
-  Financial-crime compliance ecosystem supporting AML, sanctions and transaction-monitoring use cases.
-
-
-
-* **[SAS Anti-Money Laundering](https://www.sas.com/)**
-
-  Enterprise AML analytics and compliance platform supporting transaction monitoring, sanctions screening and investigation.
-
-
-
-* **[Senzing](https://senzing.com/)**
-
-  Entity-resolution technology used to resolve people and organizations across fragmented datasets and improve AML/KYC screening quality.
+| Platform | Description | Starting Tier Pricing | Free Tier / Trial Limit |
+| --- | --- | --- | --- |
+| **[ComplyAdvantage](https://complyadvantage.com/)** | Global AML and financial-crime platform covering sanctions screening, PEPs, adverse media, transaction monitoring, customer risk and continuous monitoring. | $99/month (billed annually for up to 100 monitored entities) | 12-month free access for early-stage startups via ComplyLaunch program (no general standard free trial) |
+| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com/)** | Enterprise risk-information ecosystem covering sanctions, PEPs, identity, fraud, KYC and financial-crime risk. | £8,500/year (~$10,800/year) baseline enterprise contract | 14-day proof-of-concept trial upon sales request (up to 500 test screenings) |
+| **[LexisNexis Bridger Insight XG](https://risk.lexisnexis.com/products/bridger-insight-xg)** | Sanctions, watchlist and risk-screening solution supporting customer and counterparty screening. | £8,500/year (~$10,800/year) per instance baseline | 14-day proof-of-value trial on request (up to 500 test screenings) |
+| **[Dow Jones Risk & Compliance](https://www.dowjones.com/professional/risk/)** | Enterprise risk and compliance data covering sanctions, PEPs, adverse media, enforcement and ownership information. | $12,000/year minimum starting subscription | 7-day request-based trial for accredited compliance teams |
+| **[Dow Jones RiskCenter](https://www.dowjones.com/professional/risk/)** | Dow Jones compliance/risk ecosystem for screening, monitoring and investigative workflows. | $15,000/year minimum platform subscription | 14-day demo trial account upon request |
+| **[LSEG World-Check](https://www.lseg.com/en/data-analytics/financial-data/risk-intelligence/world-check)** | Major global screening database covering sanctions, PEPs, adverse media and other risk intelligence. | $5,000/year minimum small business entry package | 14-day trial account for regulated financial institutions |
+| **[AMLBot](https://amlbot.com/)** | AML/KYT screening platform focused particularly on crypto and blockchain addresses, transaction risk and sanctions-related compliance. | $15/month for Starter Package (includes 35 checks) or $0.40/check | 5 free check credits upon account registration |
+| **[Sanction Scanner](https://www.sanctionscanner.com/)** | AML/KYC platform providing sanctions, PEP and adverse-media screening, transaction monitoring and risk management. | €150/month (~$165/month) for Starter Plan (up to 1,000 checks/month) | 14-day free trial with 50 free screening credits |
+| **[Unit21](https://www.unit21.ai/)** | AML, fraud and risk platform providing transaction monitoring, sanctions screening, case management and configurable financial-crime workflows. | $1,500/month ($18,000/year minimum annual contract) | 14-day developer sandbox trial available upon sales request |
+| **[Flagright](https://www.flagright.com/)** | Real-time AML compliance platform covering transaction monitoring, sanctions screening, case management and risk controls. | $250/month Starter tier (includes up to 2,500 monthly screenings) | Free tier forever for early-stage startups (up to 1,000 API calls/month) or 14-day full free trial |
+| **[Napier AI](https://www.napier.ai/)** | AI-driven compliance platform covering transaction monitoring, sanctions screening, customer risk and financial-crime investigation. | £15,000/year (~$19,000/year) baseline contract (or £1,250/month G-Cloud entry) | 30-day proof-of-concept sandbox trial upon request |
+| **[ThetaRay](https://thetaray.com/)** | AI-based transaction-monitoring and financial-crime detection platform used for AML, sanctions and payment-risk scenarios. | $2,000/month minimum contract ($25,000/year entry tier) | 30-day trial sandbox for qualified financial institutions |
+| **[Oracle Watchlist Screening](https://www.oracle.com/financial-services/aml/)** | Oracle Financial Services compliance technology supporting watchlist and sanctions screening. | $30,000/year baseline module license | 30-day Oracle Cloud free trial account ($300 cloud credits) |
+| **[Oracle FCCM](https://www.oracle.com/financial-services/financial-crime-compliance-management/)** | Financial Crime and Compliance Management suite covering sanctions screening, transaction monitoring, KYC, investigations and regulatory workflows. | $50,000/year baseline enterprise platform license | 30-day Oracle Cloud free trial account ($300 cloud credits) |
+| **[Fenergo](https://www.fenergo.com/)** | Client lifecycle management and financial-crime compliance platform covering KYC, AML, screening, onboarding and ongoing monitoring. | $35,000/year minimum subscription for SaaS Client Lifecycle Management | 14-day request-based demo trial environment |
+| **[Moody's Grid](https://www.moodys.com/)** | Enterprise risk and compliance data platform supporting sanctions, PEP, ownership, entity and counterparty intelligence. | $6,000/year minimum baseline data package subscription | 14-day request-based trial access for compliance officers |
+| **[AML Partners](https://amlpartners.com/)** | AML compliance technology covering screening, transaction monitoring, case management and financial-crime workflows. | $1,200/month ($14,400/year minimum annual contract) | 14-day interactive demo trial upon request |
+| **[Silent Eight](https://www.silenteight.com/)** | AI-powered sanctions and financial-crime alert-resolution platform focused on reducing false positives and automating screening investigations. | $20,000/year minimum contract for AI screening resolution | 30-day historical data backtest / proof-of-concept trial |
+| **[AMLYZE](https://www.amlyze.com/)** | AML compliance platform covering transaction monitoring, sanctions screening, case management, risk scoring and configurable financial-crime workflows. | €200/month (~$220/month) for Basic Plan (up to 500 entity screenings/month) | 14-day free trial with 100 free screening credits |
+| **[NICE Actimize](https://www.niceactimize.com/)** | Enterprise financial-crime platform covering AML, sanctions, fraud, transaction monitoring, investigations and compliance operations. | $40,000/year minimum baseline contract | 30-day guided proof-of-concept trial for enterprise clients |
+| **[NameScan](https://namescan.io/)** | Online AML screening service focused on sanctions, PEP and watchlist screening. | $15 for 50-credit Starter Pack (~$0.30/check) or $0.10/check for volume packages | 5 free check credits upon account registration |
+| **[FIS AML Compliance Hub](https://www.fisglobal.com/)** | Financial-crime compliance ecosystem supporting AML, sanctions and transaction-monitoring use cases. | $25,000/year minimum SaaS platform subscription | 14-day request-based trial environment |
+| **[SAS Anti-Money Laundering](https://www.sas.com/)** | Enterprise AML analytics and compliance platform supporting transaction monitoring, sanctions screening and investigation. | $50,000/year baseline enterprise software license | 30-day SAS Viya trial sandbox access |
+| **[Senzing](https://senzing.com/)** | Entity-resolution technology used to resolve people and organizations across fragmented datasets and improve AML/KYC screening quality. | $1,000/month minimum for production ($0.05/entity/year) | Free forever for up to 10,000 entities for non-commercial/evaluation use |
 
 
 
