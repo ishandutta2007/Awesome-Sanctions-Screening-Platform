@@ -265,6 +265,9 @@ The open-source sanctions-screening ecosystem centers on self-hosted matching AP
 * **[OFAC SDN API](https://github.com/qvapay/ofac-sdn)** [![Stars](https://img.shields.io/github/stars/qvapay/ofac-sdn?style=social)](https://github.com/qvapay/ofac-sdn/stargazers)
   Lightweight serverless-friendly API for screening names against the OFAC SDN registry.
 
+* **[AgentReader](https://github.com/grokbot1233/agentreader)** [![Stars](https://img.shields.io/github/stars/grokbot1233/agentreader?style=social)](https://github.com/grokbot1233/agentreader/stargazers)
+  MIT-licensed Cloudflare Workers API that batch-screens up to 50 names per call against OFAC SDN/Consolidated, UN SC, UK FCDO & EU FSF lists, with keyless pay-per-call access for AI agents (x402) and a free preview.
+
 ---
 
 ## 📐 Reference Sanctions Screening Architecture
